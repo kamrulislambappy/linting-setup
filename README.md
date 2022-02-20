@@ -21,9 +21,11 @@ Install Plugin & Editor Setup
 
 You need to install the below plugins: <br />
 
-**1.** ```bash 
+**1.** 
+```bash 
   ESLint by Dirk Baeumer
-``` <br />
+```
+<br />
 
 ![ESLint by Dirk Baeumer](https://github.com/kamrulislambappy/all-images/blob/main/ESLint%20by%20Dirk%20Baeumer.png)
 
