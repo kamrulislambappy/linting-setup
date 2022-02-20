@@ -1,0 +1,1 @@
+# linting-setup
