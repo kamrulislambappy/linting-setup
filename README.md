@@ -21,13 +21,13 @@ Install Plugin & Editor Setup
 
 You need to install the below plugins: <br />
 
-**1.** ESLint by Dirk Baeumer <br />
+**1.** ESLint by Dirk Baeumer <br /><br />
 ![ESLint by Dirk Baeumer](https://github.com/kamrulislambappy/all-images/blob/main/ESLint%20by%20Dirk%20Baeumer.png)
 
-**2.** Prettier - Code formatter by Prettier <br />
+**2.** Prettier - Code formatter by Prettier <br /><br />
 ![Prettier - Code formatter by Prettier](https://github.com/kamrulislambappy/all-images/blob/main/Prettier%20-%20Code%20formatter%20by%20Prettier.png)
 
-**3.** Material Icon Theme by Phillipp Kief <br />
+**3.** Material Icon Theme by Phillipp Kief <br /><br />
 ![Material Icon Theme by Phillipp Kief](https://github.com/kamrulislambappy/all-images/blob/main/Material%20Icon%20Theme%20by%20Phillipp%20Kief.png)
 
 ### Settings
